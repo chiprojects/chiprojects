@@ -9,7 +9,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/chiprojects/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/chiprojects/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Azure Account Setup](https://github.com/chiprojects/configure-ad)
+  - [Azure Account Setup](https://github.com/chiprojects/azure-account-creation)
   - [Configuring Active Directory within Azure VMs](https://github.com/chiprojects/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/chiprojects/azure-network-protocols)
 
