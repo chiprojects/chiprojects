@@ -12,6 +12,14 @@
   - [osTicket: Prerequisites and Installation](https://github.com/chiprojects/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/chiprojects/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/chiprojects/ticket-lifecycle)
+ 
+
+<h2>🔐Cybesecurity Projects:</h2>
+
+- <b>Vulnerability Management</b>
+
+<h2>Misc:</h2>
+  -[Bash-Script](https://github.com/chiprojects/remediation-freetype-vulnerability-usn7352-1)
 
 
 <h2>📲Connect with me:</h2>
