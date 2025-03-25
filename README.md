@@ -18,8 +18,12 @@
 
 - <b>Vulnerability Management</b>
 
-<h2>Misc:</h2>
-  -[Bash-Script](https://github.com/chiprojects/remediation-freetype-vulnerability-usn7352-1)
+
+<h2>🧐Misc:</h2>
+
+- <b>Practice</b>
+
+  - [Bashscript](https://github.com/chiprojects/remediation-freetype-vulnerability-usn7532-1)
 
 
 <h2>📲Connect with me:</h2>
