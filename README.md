@@ -17,10 +17,10 @@
 <h2>🔐Cybesecurity Projects:</h2>
 
 - <b>Vulnerability Management</b>
-  - **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+  - **[Vulnerability Management Program Implementation](https://github.com/chiprojects/vulnerability-management-program)**
  
 - <b>Threat Hunting and Security Operations</b>
-  - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+  - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/chiprojects/threat-hunting-scenario-tor)**
 
 
 <h2>🧐Misc:</h2>
