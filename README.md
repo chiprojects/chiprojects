@@ -1,22 +1,26 @@
 <h1>Hi there, my name is Chioma 👋🏾</h1>
 
-<h2>I'm a <a href="https://www.linkedin.com/in/chiomaobukwelu/">Cyber/IT Professional</a> with a strong foundation in risk management, process optimization, and technical problem-solving; now expanding my expertise into cybersecurity to strenghten organizational security and compliance. With hands-on experience in troubleshooting, securing infrastructure, and a growing expertise in compliance  frameworks, I bring a results-driven approach to protect systems while continuously advancing my technical knowledge in cybersecurity frameworks and best practices.</h2>
+<h2>I'm a <a href="https://www.linkedin.com/in/chiomaobukwelu/">Cyber/IT Professional</a> with a strong foundation in risk management, process optimization, and technical problem-solving; now expanding my expertise into cybersecurity to strengthen organizational security and compliance. With hands-on experience in troubleshooting and securing infrastructure and a growing expertise in compliance frameworks, I bring a results-driven approach to protect systems while continuously advancing my technical knowledge in cybersecurity frameworks and best practices.</h2>
 
 <h2>👩🏾‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/chiprojects/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/chiprojects/azure-network-protocols)
+  - **[Configuring Active Directory within Azure VMs](https://github.com/chiprojects/configure-ad)**
+  - **[Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/chiprojects/azure-network-protocols)**
   
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/chiprojects/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/chiprojects/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/chiprojects/ticket-lifecycle)
+  - **[osTicket: Prerequisites and Installation](https://github.com/chiprojects/osticket-prereqs)**
+  - **[osTicket: Post-Installation Configuration](https://github.com/chiprojects/post-install-config)**
+  - **[osTicket: Ticket Lifecycle Examples](https://github.com/chiprojects/ticket-lifecycle)**
  
 
 <h2>🔐Cybesecurity Projects:</h2>
 
 - <b>Vulnerability Management</b>
+  - **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+ 
+- <b>Threat Hunting and Security Operations</b>
+  - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
 
 <h2>🧐Misc:</h2>
