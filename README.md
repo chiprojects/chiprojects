@@ -25,6 +25,7 @@
 - <b>Incident Responses in Microsoft Sentinel</b>
   - **[Virtual Machine Brute Force Detection](https://github.com/chiprojects/Incident-Response---Virtual-Machine-Brute-Force-Detection)**
   - **[PowerShell Suspicious Web Request](https://github.com/chiprojects/Incident-Response---PowerShell-Suspicious-Web-Request)**
+  - **[Potential Impossible Travel](https://github.com/chiprojects/Incident-Response---Potential-Impossible-Travel)**
 
 
 <h2>🧐Misc:</h2>
