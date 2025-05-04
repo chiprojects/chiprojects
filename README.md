@@ -33,6 +33,7 @@
 - <b>Practice</b>
 
   - [Bashscript](https://github.com/chiprojects/remediation-freetype-vulnerability-usn7532-1)
+  - [HTML/CSS - Landing Page](https://github.com/chiprojects/My-Landing-Page/blob/main/index.html)
 
 
 <h2>📲Connect with me:</h2>
