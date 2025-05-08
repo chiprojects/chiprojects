@@ -21,6 +21,7 @@
  
 - <b>Threat Hunting and Security Operations</b>
   - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/chiprojects/threat-hunting-scenario-tor)**
+  - **[Threat Hunting Scenario (Extortion Email)](https://github.com/chiprojects/threat-hunting-scenario-extortion)**
  
 - <b>Incident Response Investigations using Microsoft Sentinel</b>
   - **[Virtual Machine Brute Force Detection](https://github.com/chiprojects/Incident-Response---Virtual-Machine-Brute-Force-Detection)**
