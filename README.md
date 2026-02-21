@@ -1,6 +1,6 @@
 <h1>Hi there, my name is Chioma 👋🏾</h1>
 
-<h2>I'm a <a href="https://www.linkedin.com/in/chiomaobukwelu/"> security-focused operations specialist</a> with a strong foundation in risk management, process optimization, and technical problem-solving; now expanding my expertise into cybersecurity to strengthen organizational security and compliance. With hands-on experience in troubleshooting and securing infrastructure and a growing expertise in compliance frameworks, I bring a results-driven approach to protect systems while continuously advancing my technical knowledge in cybersecurity frameworks and best practices.</h2>
+<h2>As a <a href="https://www.linkedin.com/in/chiomaobukwelu/"> Security+ certified Cybersecurity Professional specializing in Vulnerability Management and Risk Reduction across hybrid -focused operations specialist</a> with a strong foundation in risk management, process optimization, and technical problem-solving; now expanding my expertise into cybersecurity to strengthen organizational security and compliance. With hands-on experience in troubleshooting and securing infrastructure and a growing expertise in compliance frameworks, I bring a results-driven approach to protect systems while continuously advancing my technical knowledge in cybersecurity frameworks and best practices.</h2>
 
 <h2>👩🏾‍💻 Information Technology Projects:</h2>
 
