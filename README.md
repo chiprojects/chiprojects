@@ -1,8 +1,21 @@
-<h1>Hi there, my name is Chioma 👋🏾</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=0492C2&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi!+👋🏾;+My+Name+Is+Chioma+Obukwelu!;" />
+</h1>
 
-<h2>As a <a href="https://www.linkedin.com/in/chiomaobukwelu/"> Security+ certified Cybersecurity Professional</a> specializing in Vulnerability Management and Risk Reduction across hybrid cloud environments, I manage end-to-end vulnerability lifecycles by identifying, prioritzing, and remediating findings using Tenable Nessus, PowerShell automation, and risk-based methodologies. 
+<h3 align="center">👋🏾 Vulnerability Management Analyst & Cybersecurity & GRC & Risk & Compliance </h3>
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/chiomaobukwelu"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
+
+---  
+As a <a href="https://www.linkedin.com/in/chiomaobukwelu/"> Security+ certified Cybersecurity Professional</a> specializing in **Vulnerability Management and Risk Reduction** across hybrid cloud environments, I manage end-to-end vulnerability lifecycles by identifying, prioritizing, and remediating findings using Tenable Nessus, PowerShell automation, and risk-based methodologies. 
   
-I enforce operations specialist with a strong foundation in risk management, process optimization, and technical problem-solving; now expanding my expertise into cybersecurity to strengthen organizational security and compliance. With hands-on experience in troubleshooting and securing infrastructure and a growing expertise in compliance frameworks, I bring a results-driven approach to protect systems while continuously advancing my technical knowledge in cybersecurity frameworks and best practices.</h2>
+I enforce DISA STIG and CIS-aligned configurations across Windows and Linux systems to reduce exposure and improve audit readiness. I translate scan data into actionable remediation plans and partner with infrastructure teams to accelerate closure.
+
+I align remediation programs with NIST CSF, NIST 800-53, ISO 27001, SOC 2, HIPPA, PCI-DSS, FedRAMP, and CMMC frameworks.
+
+I leverage Azure, AWS, Tenable, Defender, PowerShell, Python, and Bash to automate vulnerability tracking, streamline remediation, and strengthen enterprise resilience.
 
 <h2>👩🏾‍💻 Information Technology Projects:</h2>
 
