@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=0492C2&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi!+👋🏾;+My+Name+Is+Chioma+Obukwelu!;" />
 </h1>
 
-<h3 align="center">👋🏾 Vulnerability Management Analyst & Cybersecurity & GRC & Risk & Compliance </h3>
+<h3 align="center">👉🏾 Vulnerability Management Analyst & Cybersecurity & GRC & Risk & Compliance </h3>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/chiomaobukwelu"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -13,7 +13,7 @@ As a <a href="https://www.linkedin.com/in/chiomaobukwelu/"> Security+ certified 
   
 I enforce **DISA STIG and CIS-aligned** configurations across **Windows and Linux systems** to reduce exposure and improve audit readiness. I translate scan data into actionable remediation plans and partner with infrastructure teams to accelerate closure.
 
-I align remediation programs with **NIST CSF, NIST 800-53, ISO 27001, SOC 2, HIPPA, PCI-DSS, FedRAMP, and CMMC frameworks**.
+I align remediation programs with **NIST CSF, NIST 800-53, ISO 27001, SOC 2, HIPAA, PCI-DSS, FedRAMP, and CMMC frameworks**.
 
 I leverage **Azure, AWS, Tenable, Defender, PowerShell, Python, and Bash** to automate vulnerability tracking, streamline remediation, and strengthen enterprise resilience.
 
