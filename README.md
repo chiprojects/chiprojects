@@ -9,13 +9,13 @@
 </div>
 
 ---  
-As a <a href="https://www.linkedin.com/in/chiomaobukwelu/"> Security+ certified Cybersecurity Professional</a> specializing in **Vulnerability Management and Risk Reduction** across hybrid cloud environments, I manage end-to-end vulnerability lifecycles by identifying, prioritizing, and remediating findings using Tenable Nessus, PowerShell automation, and risk-based methodologies. 
+As a <a href="https://www.linkedin.com/in/chiomaobukwelu/"> Security+ certified Cybersecurity Professional</a> specializing in **Vulnerability Management and Risk Reduction** across hybrid cloud environments, I manage end-to-end vulnerability lifecycles by identifying, prioritizing, and remediating findings using **Tenable Nessus, PowerShell automation, and risk-based methodologies**. 
   
-I enforce DISA STIG and CIS-aligned configurations across Windows and Linux systems to reduce exposure and improve audit readiness. I translate scan data into actionable remediation plans and partner with infrastructure teams to accelerate closure.
+I enforce **DISA STIG and CIS-aligned** configurations across **Windows and Linux systems** to reduce exposure and improve audit readiness. I translate scan data into actionable remediation plans and partner with infrastructure teams to accelerate closure.
 
-I align remediation programs with NIST CSF, NIST 800-53, ISO 27001, SOC 2, HIPPA, PCI-DSS, FedRAMP, and CMMC frameworks.
+I align remediation programs with **NIST CSF, NIST 800-53, ISO 27001, SOC 2, HIPPA, PCI-DSS, FedRAMP, and CMMC frameworks**.
 
-I leverage Azure, AWS, Tenable, Defender, PowerShell, Python, and Bash to automate vulnerability tracking, streamline remediation, and strengthen enterprise resilience.
+I leverage **Azure, AWS, Tenable, Defender, PowerShell, Python, and Bash** to automate vulnerability tracking, streamline remediation, and strengthen enterprise resilience.
 
 <h2>👩🏾‍💻 Information Technology Projects:</h2>
 
