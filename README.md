@@ -9,7 +9,7 @@
 </div>
 
 ---  
-As a <a href="https://www.linkedin.com/in/chiomaobukwelu/"> Security+ certified Cybersecurity Professional</a> specializing in **Vulnerability Management and Risk Reduction** across hybrid cloud environments, I manage end-to-end vulnerability lifecycles by identifying, prioritizing, and remediating findings using **Tenable Nessus, PowerShell automation, and risk-based methodologies**. 
+As a <a href="https://www.credly.com/badges/1dc3f3fb-a45e-40fd-a223-36901eaa4813/public_url"> **Security+ certified Cybersecurity Professional**</a> specializing in **Vulnerability Management and Risk Reduction** across hybrid cloud environments, I manage end-to-end vulnerability lifecycles by identifying, prioritizing, and remediating findings using **Tenable Nessus, PowerShell automation, and risk-based methodologies**. 
   
 I enforce **DISA STIG and CIS-aligned** configurations across **Windows and Linux systems** to reduce exposure and improve audit readiness. I translate scan data into actionable remediation plans and partner with infrastructure teams to accelerate closure.
 
@@ -33,6 +33,7 @@ I leverage **Azure, AWS, Tenable, Defender, PowerShell, Python, and Bash** to au
 
 - <b>Vulnerability Management</b>
   - **[Vulnerability Management Program Implementation](https://github.com/chiprojects/vulnerability-management-program)**
+  - **[Enterprise Security Assessment & Vulnerability Management Engagement](https://github.com/chiprojects/enterprise-security-assessment)**
  
 - <b>Threat Hunting and Security Operations</b>
   - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/chiprojects/threat-hunting-scenario-tor)**
