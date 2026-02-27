@@ -15,7 +15,7 @@ I enforce **DISA STIG and CIS-aligned** configurations across **Windows and Linu
 
 I align remediation programs with **NIST CSF, NIST 800-53, ISO 27001, SOC 2, HIPAA, PCI-DSS, FedRAMP, and CMMC frameworks**.
 
-I leverage **Azure, AWS, Tenable, Defender, PowerShell, Python, and Bash** to automate vulnerability tracking, streamline remediation, and strengthen enterprise resilience.
+I leverage **Azure, Tenable, Defender, PowerShell, Python, and Bash** to automate vulnerability tracking, streamline remediation, and strengthen enterprise resilience.
 
 <h2>👩🏾‍💻 Information Technology Projects:</h2>
 
