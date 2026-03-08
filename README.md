@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=0492C2&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi!+👋🏾;+My+Name+Is+Chioma+Obukwelu!;" />
 </h1>
 
-<h3 align="center">👉🏾 Vulnerability Management Analyst & Cybersecurity & GRC & Risk & Compliance </h3>
+<h3 align="center">👉🏾 Vulnerability Management Analyst & Cybersecurity & GRC</h3>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/chiomaobukwelu"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
